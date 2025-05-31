@@ -1,4 +1,4 @@
-  <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Richard Cedeño<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
+  <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Richard<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Front-End Developer, with Next.js, React.js and Vue.js!</h3>
 <ul style="list-style: none;">
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>HTML, CSS, JavaScript, React.js, Vue.js</strong></li>
