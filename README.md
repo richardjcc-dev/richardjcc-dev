@@ -1,7 +1,6 @@
   <h1 style="text-align: center;margin-bottom: 5px;">Hi, I'm Richard Cedeño<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hi" style="width: 30px;margin-left: 10px;"></h1>
 <h3 style="font-size: 1.2rem; text-align: center;margin: 0 0 20px 0;">Front-End Developer, with Next.js, React.js and Vue.js!</h3>
 <ul style="list-style: none;">
-<li>:seedling: I'm in constant learning (currently Inertia.js with Laravel 8 / Nuxt / Tailwind CSS)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>HTML, CSS, JavaScript, React.js, Vue.js</strong></li>
 <li>:brazil: From Cumaná, Venezuela!</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
@@ -16,6 +15,8 @@
 <h2>Here's some of the technologies that I use:</h2>
 <h3>Front-end</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=#F7DF1E" alt="javascript"></a></p>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React.js-white?logo=vuedotjs&amp;style=for-the-badge" alt="reactjs"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-white?logo=vuedotjs&amp;style=for-the-badge" alt="nextjs"></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&amp;style=for-the-badge" alt="vuejs"></a>
 <p><a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&amp;logoColor=7952B3&amp;style=for-the-badge" alt="bootstrap"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&amp;logoColor=06B6D4&amp;style=for-the-badge" alt="tailwindcss"></a>
