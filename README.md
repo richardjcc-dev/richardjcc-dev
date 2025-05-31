@@ -15,8 +15,8 @@
 <h2>Here's some of the technologies that I use:</h2>
 <h3>Front-end</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=#F7DF1E" alt="javascript"></a></p>
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React.js-white?logo=vuedotjs&amp;style=for-the-badge" alt="reactjs"></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-white?logo=vuedotjs&amp;style=for-the-badge" alt="nextjs"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React.js-white?logo=reactdotjs&amp;style=for-the-badge" alt="reactjs"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-white?logo=nextdotjs&amp;style=for-the-badge" alt="nextjs"></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Vue.js-white?logo=vuedotjs&amp;style=for-the-badge" alt="vuejs"></a>
 <p><a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-white?logo=bootstrap&amp;logoColor=7952B3&amp;style=for-the-badge" alt="bootstrap"></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/-tailwind css*-white?logo=tailwindcss&amp;logoColor=06B6D4&amp;style=for-the-badge" alt="tailwindcss"></a>
@@ -30,6 +30,3 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&amp;logoColor=181717&amp;style=for-the-badge" alt="github"></a>
 </div>
 <hr>
-<div align="center">
-<p><img src="https://komarev.com/ghpvc/?username=garbinmarcelo&amp;style=flat-square" alt=""></p>
-</div>
